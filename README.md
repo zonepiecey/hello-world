@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-just a repository
+Tremlble.Mortals
+I love coding!
